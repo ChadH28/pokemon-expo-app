@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "pokemon-expo-app",
+    "slug": "pokemon-expo-app"
+  }
+}
