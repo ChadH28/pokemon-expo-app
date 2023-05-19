@@ -1,12 +1,17 @@
-This is a [Native.js](https://reactnative.dev/docs/) project bootstrapped with [`npx create-expo-app@latest --my-app with-router`](https://docs.expo.dev/tutorial/introduction/).
+This is a [Native.js](https://reactnative.dev/docs/) project bootstrapped with [`npm install -g expo-cli`](https://docs.expo.dev/tutorial/introduction/).
 
 # Expo Router Example
 Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
 
 ## 🚀 How to use
 
-```sh
-npx create-expo-app -e with-router
+```
+npx create-expo-app@latest --my-app with-router
+```
+## 🚀 Addons
+```
+npm install 
+npm install expo-font axios react-native-dotenv
 ```
 
 ## 📝 Notes
@@ -15,10 +20,6 @@ npx create-expo-app -e with-router
 - [Expo Router: Repo](https://github.com/expo/router)
 
 ## Getting Started
-
-run npm intstall + addons
-npm install 
-npm install expo-font axios react-native-dotenv
 
 Choose a template for your app. You can choose from the options available or select a blank template.
 Once your project is created, navigate to the project directory and start the development server by running the following command:

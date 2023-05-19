@@ -5,7 +5,7 @@ import React from "react";
 export default function HomeView() {
   return (
     <View>
-      <Text>Home</Text>
+      <Text>work</Text>
     </View>
   );
 }
